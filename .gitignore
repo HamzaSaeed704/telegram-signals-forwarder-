@@ -1,0 +1,8 @@
+.env
+.venv
+___pycache___
+.vscode
+chats.csv
+Ali_Session.session 
+bot2_session.session
+final_script.py
